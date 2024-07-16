@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RoleyRoley
 - I’m currently studying Software Engineering at University
 
-- I am a complete newbie to coding but I am willing and determined to learn.
-- I currently have experience in C and very limited knowledge on HTML.
+- A willing and determined newbie, learning to code.
+- I currently have a variety of experience in C, Java, Python, HTML, CSS and JS.
 
 <!---
 RoleyRoley/RoleyRoley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
