@@ -2,6 +2,8 @@ I’m a **22-year-old Software Engineering graduate (BSc)** with a strong founda
 I have hands-on experience building responsive, user-friendly applications and scalable back-end systems.  
 My goal is to contribute to impactful projects while continuing to grow as a developer.
 
+[Portfolio](https://www.sonnyportfolio.com/)
+
 ---
 
 ## 🎓 Education
