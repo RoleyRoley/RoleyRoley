@@ -14,7 +14,7 @@ My goal is to contribute to impactful projects while continuing to grow as a dev
 
 ## 💡 Technical Skills
 - **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, NestJS  
+- **Backend:** Python, Node.js, NestJS  
 - **Databases:** MySQL, PostgreSQL  
 - **Other:** REST API design, Git/GitHub, Agile/Scrum workflows  
 
