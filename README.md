@@ -1,8 +1,9 @@
+[Portfolio](https://www.sonnyportfolio.com/)
+
 I’m a **22-year-old Software Engineering graduate (BSc)** with a strong foundation in full-stack development and modern web technologies.  
 I have hands-on experience building responsive, user-friendly applications and scalable back-end systems.  
 My goal is to contribute to impactful projects while continuing to grow as a developer.
 
-[Portfolio](https://www.sonnyportfolio.com/)
 
 ---
 
@@ -13,7 +14,7 @@ My goal is to contribute to impactful projects while continuing to grow as a dev
 ---
 
 ## 💡 Technical Skills
-- **Frontend:** React, Tailwind CSS  
+- **Frontend:** JavaScript(React), Tailwind CSS  
 - **Backend:** Python, Node.js, NestJS  
 - **Databases:** MySQL, PostgreSQL  
 - **Other:** REST API design, Git/GitHub, Agile/Scrum workflows  
