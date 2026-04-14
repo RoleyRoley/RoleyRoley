@@ -1,26 +1,61 @@
-[Portfolio](https://www.sonnyportfolio.com/)
+# 👋 Hi, I'm Sonny  
 
-I’m a **22-year-old Software Engineering graduate (BSc)** with a strong foundation in full-stack development and modern web technologies.  
-I have hands-on experience building responsive, user-friendly applications and scalable back-end systems.  
-My goal is to contribute to impactful projects while continuing to grow as a developer.
+[🌐 Portfolio](https://www.sonnyportfolio.com/)
 
+I’m a **Software Engineering graduate (BSc)** with a strong focus on building **real-world, full-stack applications**.  
+I enjoy working across the stack — from backend systems and APIs to clean, user-focused interfaces.
+
+Recently, I’ve been developing projects involving:
+- **API integration & web scraping**
+- **automated systems & background jobs**
+- **data-driven applications with PostgreSQL**
+
+I’m currently looking for a **Junior Software Engineer role**, where I can contribute to meaningful projects and continue growing as a developer.
 
 ---
 
 ## 🎓 Education
-- **BSc Software Engineering** – Anglia Ruskin University, 2025  
-  Focused on software design, system architecture, and database management.
+- **BSc (Hons) Software Engineering** – Anglia Ruskin University (2022–2025)  
+  Focus: software design, system architecture, databases, and full-stack development  
 
 ---
 
-## 💡 Technical Skills
-- **Frontend:** JavaScript(React), Tailwind CSS  
-- **Backend:** Python, Node.js, NestJS  
-- **Databases:** MySQL, PostgreSQL  
-- **Other:** REST API design, Git/GitHub, Agile/Scrum workflows  
+## 🛠️ Tech Stack
+**Languages:**  
+Python, JavaScript  
+
+**Frontend:**  
+React, Tailwind CSS  
+
+**Backend:**  
+FastAPI, Node.js  
+
+**Databases:**  
+PostgreSQL, MySQL  
+
+**Other:**  
+REST APIs, Web Scraping, Git/GitHub, Agile/Scrum  
 
 ---
-<!---
-RoleyRoley/RoleyRoley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🚀 Featured Projects
+
+### 🎮 Game Price Tracker & Comparison System
+Full-stack Python application that tracks and compares game prices across multiple retailers.  
+- Built with FastAPI and PostgreSQL  
+- Integrated Steam API + custom scraping (Loaded)  
+- Automated price monitoring using APScheduler  
+- Displays real-time price comparisons and history  
+
+---
+
+## 📈 Currently Working On
+- Expanding price comparison across more stores  
+- Adding price alert notifications  
+- Improving UI/UX and deployment  
+
+---
+
+## 📫 Get in Touch
+- Portfolio: https://www.sonnyportfolio.com/  
+- GitHub: https://github.com/RoleyRoley  
