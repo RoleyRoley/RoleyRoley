@@ -31,7 +31,7 @@ React, Tailwind CSS
 FastAPI, Node.js  
 
 **Databases:**  
-PostgreSQL, MySQL  
+PostgreSQL
 
 **Other:**  
 REST APIs, Web Scraping, Git/GitHub, Agile/Scrum  
@@ -40,22 +40,23 @@ REST APIs, Web Scraping, Git/GitHub, Agile/Scrum
 
 ## 🚀 Featured Projects
 
-### 🎮 Game Price Tracker & Comparison System
-Full-stack Python application that tracks and compares game prices across multiple retailers.  
-- Built with FastAPI and PostgreSQL  
-- Integrated Steam API + custom scraping (Loaded)  
-- Automated price monitoring using APScheduler  
-- Displays real-time price comparisons and history  
+### ✈️ Flight Operations Monitoring Platform
+Full-stack flight operations platform that simulates and monitors commercial aircraft in real time.
+- Built with FastAPI, React and PostgreSQL
+- Live telemetry simulation with interactive flight tracking
+- Intelligent alerting and fault injection system (engine overheat, fuel leak, rapid altitude loss)
+- Flight summaries, REST API and live operations dashboard
 
----
+
 
 ## 📈 Currently Working On
-- Expanding price comparison across more stores  
-- Adding price alert notifications  
-- Improving UI/UX and deployment  
+- Route-aware flight simulation with realistic flight state transitions
+- Multi-aircraft fleet simulation and configurable flight plans
+- Dynamic descent calculations based on remaining distance to destination
 
 ---
 
 ## 📫 Get in Touch
 - Portfolio: https://www.sonnyportfolio.com/  
-- GitHub: https://github.com/RoleyRoley  
+- GitHub: https://github.com/RoleyRoley
+- Linkedin: https://www.linkedin.com/in/sonny-jeffreys/
